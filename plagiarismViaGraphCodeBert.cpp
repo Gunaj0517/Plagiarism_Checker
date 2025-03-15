@@ -30,3 +30,8 @@ int main() {
     checkPlagiarism(code1, code2);
     return 0;
 }
+
+/*
+g++ filename.cpp -o output_name 
+./output_name
+*/
